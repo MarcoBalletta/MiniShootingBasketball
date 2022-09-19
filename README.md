@@ -1,7 +1,4 @@
 # MiniShootingBasketball
 Shooting basketball game with AI controlled enemy
 
-
-
-https://user-images.githubusercontent.com/75800100/191117263-9c864487-bfb9-41cb-a7c7-a6d90ee79adb.mov
-
+![VideoperGithubBasketMinishooting_AdobeExpress](https://user-images.githubusercontent.com/75800100/191117399-897178b0-3c08-478b-9d7a-89a7347941ab.gif)
